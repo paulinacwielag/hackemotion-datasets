@@ -1,0 +1,406 @@
+{
+  "resources": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10118481.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10120469.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10269675.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10334355.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10345473.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10882484.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10922970.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_10967257.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_11262281.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_11306820.jpg",
+      "emotions": "['anger']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_10598340.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_1070239.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_11050021.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_11660541.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_11871637.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_8937293.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_12096769.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_12896398.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_15104479.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_16806541.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/disgust/Training_24592307.jpg",
+      "emotions": "['disgust']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_10127393.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_10833439.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_1096438.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_10920127.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_11101710.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_11970459.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_12247689.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_12505112.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_12736008.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/fear/Training_13181629.jpg",
+      "emotions": "['fear']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_1018317.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_10467131.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_10248095.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_10967459.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11022009.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11277443.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11446805.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11794387.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11514199.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/happy/Training_11673498.jpg",
+      "emotions": "['happiness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_1002457.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_10124215.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_10346302.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_1062767.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_11023146.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_12279385.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_11601818.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_12769419.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_13012601.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/surprise/Training_13680800.jpg",
+      "emotions": "['surprise']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_10115766.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_10408895.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_10659901.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_10783695.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_11748302.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_11108167.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_12219704.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_12219704.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_12497587.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/sad/Training_12743457.jpg",
+      "emotions": "['sadness']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_15466417.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_16830053.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_17244297.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_17946627.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_17667401.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/paulinacwielag/hackemotion-datasets/main/kaggle/train/angry/Training_22269387.jpg",
+      "emotions": "['contempt']",
+      "image_category": "face"
+    }
+  ]
+}
